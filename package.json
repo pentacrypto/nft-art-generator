@@ -1,13 +1,13 @@
 {
-  "name": "nft",
+  "name": "nft-art-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "A crude tool for generating random NFT images and their metadata",
   "main": "index.js",
   "scripts": {
-    "randos": "node ."
+    "generate": "node ."
   },
   "keywords": [],
-  "author": "",
+  "author": "pentacrypto",
   "license": "ISC",
   "dependencies": {
     "sharp": "^0.29.3"
